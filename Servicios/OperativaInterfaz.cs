@@ -8,5 +8,6 @@ namespace Ejercicio4.Servicios
 {
     internal interface OperativaInterfaz
     {
+        public void hacerMultiplicacion(int numero);
     }
 }

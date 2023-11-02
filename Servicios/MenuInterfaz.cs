@@ -8,5 +8,6 @@ namespace Ejercicio4.Servicios
 {
     internal interface MenuInterfaz
     {
+        public int pedirNumero();
     }
 }
